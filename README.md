@@ -22,7 +22,7 @@ This project was developed to function the basic CRUD operations of a Task Manag
 * Entity relationships:
     *One to many relationship between user and task.
 
-Notes: 
+## Notes: 
 * There is only one admin and admin can manage (CRUD) users and tasks.
 * you should add admin name as "SYSTEM" and set any password manually to the admin table at database.
 * Users are added by the admin.
