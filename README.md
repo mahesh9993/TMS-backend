@@ -16,9 +16,9 @@ This project was developed to function the basic CRUD operations of a Task Manag
 
 ## Database Structure
 * Entities: 
-    Admin
-    User
-    Task
+    *Admin
+    *User
+    *Task
 * Entity relationships:
     *One to many relationship between user and task.
 
