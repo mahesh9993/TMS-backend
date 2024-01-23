@@ -7,20 +7,19 @@ This project was developed to function the basic CRUD operations of a Task Manag
 * Java version: 8
 * Database: MySQL
 * Mvn Dependencies:
-    	Spring Web
-    	Spring Data Jpa
-    	MySQL driver
-    	Lombok
-    	Swagger 2.9.2
-    	Mapstruct 1.4.2
+    	* Spring Web
+    	* Spring Data Jpa
+    	* MySQL driver
+    	* Lombok
+    	* Swagger 2.9.2
+    	* Mapstruct 1.4.2
 
 ## Database Structure
 * Entities: 
-    *Admin
-    *User
-    *Task
-* Entity relationships:
-    *One to many relationship between user and task.
+    * Admin
+    * User
+    * Task
+* Entity relationships: One to many relationship between user and task.
 
 ## Notes: 
 * There is only one admin and admin can manage (CRUD) users and tasks.
